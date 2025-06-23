@@ -38,8 +38,8 @@ Website: [www.walacor.com](https://www.walacor.com)
 
 > 💼 Promoted twice within 1 year — from Intern → Associate DevOps Engineer → DevOps Engineer — based on strong performance and ownership of production infrastructure.
 - **Jul 2023**: Joined as **DevOps Intern** – learned AWS, Docker, CI/CD tools  
-- **Oct 2023**: Promoted to **Associate DevOps Engineer** – began working on live infra  
-- **Dec 2023**: Promoted to **DevOps Engineer** – took full ownership of pipelines and cloud deployments  
+- **Mar 2024**: Promoted to **Associate DevOps Engineer** – began working on live infra  
+- **Jul 2024**: Promoted to **DevOps Engineer** – took full ownership of pipelines and cloud deployments  
 
 ## 📑 Verified Career Documentation
 
