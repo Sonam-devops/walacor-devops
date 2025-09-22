@@ -10,14 +10,15 @@ Website: [www.walacor.com](https://www.walacor.com)
 
 ## 🧰 Tools & Technologies Used
 
-- **Cloud**: AWS (EC2, S3, VPC, IAM, RDS, ELB, ECR, Route53)
+- **Cloud**: AWS, AZURE
 - **Infrastructure as Code**: Terraform
 - **CI/CD**: Jenkins
 - **Containerization**: Docker, Docker Swarm
 - **Security**: IAM roles, Trivy image scanning
 - **Scripting**: Bash
 - **Monitoring**: AWS CloudWatch
-
+- Operating system - Linux
+  
 ## ⚙️ My Responsibilities
 
 - Created EC2 instances, AMIs, and configured Docker Swarm clusters
